@@ -10,18 +10,10 @@ npm-debug.log
 coverage
 dist
 typings
-bundles
-src/*.js
-src/*.d.ts
-src/*.js.map
 tests/*.js
 tests/*.d.ts
 tests/*.js.map
-index.js
-index.d.ts
-index.js.map
 _test-output
-aot/
 
 #################
 ## JetBrains
