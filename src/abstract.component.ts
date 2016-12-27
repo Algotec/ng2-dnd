@@ -166,9 +166,9 @@ export abstract class AbstractComponent {
 
     detectChanges() {
         // Programmatically run change detection to fix issue in Safari
-        setTimeout(() => {
-            this._cdr.detectChanges();
-        }, 250);
+        // setTimeout(() => {
+        //     this._cdr.detectChanges();
+        // }, 250);
     }
 
     //****** Droppable *******//
